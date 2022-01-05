@@ -4,7 +4,7 @@ import axios from "axios";
 const europeApi = axios.create({
     baseURL: 'https://europe.api.riotgames.com',
     params: {
-        api_key: 'RGAPI-95b35c67-399c-4fd7-84f8-60b29e32b3c2'
+        api_key: 'RGAPI-b2da4008-9207-4f28-a1b0-70fe975bbf9c'
     }
 });
 
